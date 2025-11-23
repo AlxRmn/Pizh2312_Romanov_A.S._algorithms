@@ -10,9 +10,10 @@ from heapsort import heapsort_inplace
 # Характеристики ПК (Заполнить своими данными)
 PC_INFO = """
 Характеристики ПК для тестирования:
-- Процессор: Intel Core i7 
-- RAM: 16 GB
-- OS: Windows 11
+- Процессор: Intel Core i5-10210U @ 1.60GHz
+- Оперативная память: 16 GB DDR4
+- ОС: Windows 10
+- Python: 3.13.2
 """
 
 
